@@ -1,1 +1,1 @@
-# Game
+A Unity-based game project developed using Unity 6 (6000.1.12f1). This repository contains the complete project files, including game assets, scripts, and scenes. The project is currently shared in its source form and is under development.
